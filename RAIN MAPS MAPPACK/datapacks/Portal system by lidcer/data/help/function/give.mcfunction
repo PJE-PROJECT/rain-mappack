@@ -1,0 +1,1 @@
+give @s minecraft:carrot_on_a_stick[minecraft:custom_model_data=3,minecraft:custom_name='{"color":"light_purple","text":"Aperture Science Handheld Portal Device"}',minecraft:unbreakable={},minecraft:custom_data={mp6:1,mp5:1,Tags:["itempicker"]}] 1

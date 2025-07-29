@@ -1,0 +1,21 @@
+{
+  "physical_things:id": {
+    "criteria": {
+      "requirement": "2025-06-22 15:28:12 +0300"
+    },
+    "done": true
+  },
+  "delta:player_setup": {
+    "criteria": {
+      "requirement": "2025-06-22 15:28:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-06-22 15:28:12 +0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}
